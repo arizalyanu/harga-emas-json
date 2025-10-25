@@ -1,10 +1,10 @@
 {
-  "tanggal": "24 Oktober 2025",
-  "last_update": "24 Oktober 2025 19:30:01 WIB",
-  "harga_emas_1gram": 2354000,
+  "tanggal": "25 Oktober 2025",
+  "last_update": "25 Oktober 2025 10:30:02 WIB",
+  "harga_emas_1gram": 2350000,
   "sumber": "https://emasantam.id/content/lm.txt",
-  "timestamp_scraping": "2025-10-25T08:00:14.442907",
+  "timestamp_scraping": "2025-10-25T12:00:01.947921",
   "harga_sebelumnya": 2354000,
-  "selisih": 0,
-  "perubahan": "Tetap"
+  "selisih": -4000,
+  "perubahan": "Turun 4,000"
 }
